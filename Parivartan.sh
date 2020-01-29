@@ -2,7 +2,7 @@
 # -- Under development
 # Jitendra / jnarayan81@gmail.com : Pijush / topijish@gmail.com : Nidhan K Biswas / nkb1@nibmg.ac.in
 
-Parivartan, an orchestrated method, is meta-algorithms that combine several variant calling techniques into one predictive model in order to decrease variance, bias, or improve predictions.
+#Parivartan, an orchestrated method, is meta-algorithms that combine several variant calling techniques into one predictive model in order to decrease variance, bias, or improve predictions.
 
 #Index the fasta
 bwa index my.fasta
