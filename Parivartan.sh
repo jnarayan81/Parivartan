@@ -1,6 +1,8 @@
-#Parivastan (Hindi: परिवर्तन)is a SNP calling pipeline -- Under development
-#Jitendra / jnarayan81@gmail.com
+#Parivastan (Hindi: परिवर्तन; Bengali: পরিবর্তন)is a SNP calling pipeline 
+# -- Under development
+# Jitendra / jnarayan81@gmail.com : Pijush / topijish@gmail.com : Nidhan K Biswas / nkb1@nibmg.ac.in
 
+Parivartan, an orchestrated method, is meta-algorithms that combine several variant calling techniques into one predictive model in order to decrease variance, bias, or improve predictions.
 
 #Index the fasta
 bwa index my.fasta
